@@ -1,2 +1,2 @@
 # fish
-easy peesy
+easy peasy
